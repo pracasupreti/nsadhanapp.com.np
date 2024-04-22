@@ -1,0 +1,44 @@
+a{color: #e35949;}
+a:hover{color:#852e26;}
+
+.link:hover{color:#e35949;}
+
+#logo{
+	background-image: url(../../images/logo.png);
+	background-repeat: no-repeat;
+}
+
+#menu ul a:hover{color:#e35949 !important;}
+#menu ul{border-top:1px solid #f0a59c !important;}
+
+.slider-bg{background:url(../../images/color/red/slider-bg.jpg) no-repeat top center;}
+
+.header-text{background:url(../../images/color/red/header-text-bg.jpg) no-repeat;}
+
+span#prevBtn a{background:url(../../images/color/red/bt-prev.png) no-repeat 0 0;}
+span#nextBtn a{background:url(../../images/color/red/bt-next.png) no-repeat 0 0;}
+
+.events-home .events-date{color:#e35949;}
+
+.bt.red{text-shadow:1px 1px #ae3c32; color:#fff; background-image:url(../../images/color/red/bt-red.jpg);}
+.bt.red:hover{color:#451510 !important; text-shadow:1px 1px #ef6d61;}
+
+
+.bt.white{text-shadow:1px 1px #fff; color:#e35949 !important; background-image:url(../../images/bt-white.jpg);}
+.bt.white:hover{color:#451510 !important; text-shadow:1px 1px #fff;}
+
+.title a:hover{color:#e35949 !important;}
+
+.events .events-date{color:#e35949;}
+
+ul.tag li{border-bottom:1px solid #f0a59c;}
+
+.tabs li.active{color:#fff; background-color:#e35949;}
+
+.highlight{background-color:#e35949;}
+
+blockquote p{border-left:5px solid #e35949;}
+
+.pricing-box h3{color:#e35949;}  
+
+.tab-page{border-left:6px solid #e35949;}

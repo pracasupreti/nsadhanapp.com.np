@@ -1,0 +1,40 @@
+a{color: #8A26B9;}
+a:hover{color:#5c157d;}
+
+.link:hover{color:#8A26B9;}
+
+#logo{background:url(../../images/color/purple/logo.png) no-repeat;}
+
+#menu ul a:hover{color:#8A26B9 !important;}
+#menu ul{border-top:1px solid #8A26B9 !important;}
+
+.slider-bg{background:url(../../images/color/purple/slider-bg.jpg) no-repeat top center;}
+
+.header-text{background:url(../../images/color/purple/header-text-bg.jpg) no-repeat;}
+
+span#prevBtn a{background:url(../../images/color/purple/bt-prev.png) no-repeat 0 0;}
+span#nextBtn a{background:url(../../images/color/purple/bt-next.png) no-repeat 0 0;}
+
+.events-home .events-date{color:#8A26B9;}
+
+.bt.red:hover{color:#1b0326; text-shadow:1px 1px #9a3bc8;}
+.bt.red{text-shadow:1px 1px #671b8b; color:#fff;  background-image:url(../../images/color/purple/bt-purple.jpg);}
+
+.bt.white{text-shadow:1px 1px #fff; color:#8A26B9 !important; background-image:url(../../images/bt-white.jpg);}
+.bt.white:hover{color:#5c157d !important; text-shadow:1px 1px #fff;}
+
+.title a:hover{color:#8A26B9 !important;}
+
+.events .events-date{color:#8A26B9;}
+
+ul.tag li{border-bottom:1px solid #bb67e3;}
+
+.tabs li.active{color:#fff; background-color:#8A26B9;}
+
+.highlight{background-color:#8A26B9;}
+
+blockquote p{border-left:5px solid #8A26B9;}
+
+.pricing-box h3{color:#8A26B9;}  
+
+.tab-page{border-left:6px solid #8A26B9;}
